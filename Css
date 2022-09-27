@@ -1,0 +1,130 @@
+.content {
+    font-size: 45px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    font-family: Impact;
+    font-style: italic;
+    color:rgba(165, 42, 42, 0.721);
+}
+
+
+.First {
+    font-size: 20px;
+    font-weight: bolder;
+    display: flex;
+   justify-content: center;
+   padding-top: 15px;
+    padding-bottom: 20px;
+    color: burlywood;
+    background-color: black;
+    
+    
+}
+
+input{
+    border-color: black;
+    background-color: skyblue;
+    border-spacing: 5px;
+    padding: 0px;
+
+}
+
+form{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.Password{
+    font-size: 20px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    color: burlywood;
+    padding-bottom: 40px;
+    background-color:black;
+}
+
+.button{
+    display: flex;
+    height: 25px;
+    background: #795c34;;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    overflow:hidden;
+    font-family: 'Gill Sans';
+    font-size: 20px;
+    font-weight: bold;
+    cursor:pointer;
+
+    
+}
+
+.button:hover{
+    background: rgb(165, 42, 42);
+}
+
+.button:active{
+    background: rgb(165, 42, 42);
+}
+
+.Jack{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.Footer{
+    display: flex;
+    justify-content: center;
+    color: skyblue;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+
+
+.content2{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    padding-bottom: 100px;
+    color: white;
+    text-shadow: black;
+    font-size: 18px;
+    font-style: Impact;
+    
+}
+
+.Background{
+    background-color: blue red green;
+}
+
+
+.photo {
+    position: relative;
+    width: 10%;
+}
+
+.space {
+    position: absolute;
+    z-index: -1;
+}
+
+
+.Account {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    color:rgba(165, 42, 42, 0.721);
+    font-weight: bolder;
+    font-family: 'Impact';
+    background-color: black;
+    text-shadow: black;
+
+}
+
